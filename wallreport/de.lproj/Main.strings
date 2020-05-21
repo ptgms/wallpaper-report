@@ -1,0 +1,150 @@
+
+/* Class = "UITableViewSection"; headerTitle = "Picsum - Picture Size Settings"; ObjectID = "09Y-6x-QgS"; */
+"09Y-6x-QgS.headerTitle" = "Picsum - Bildgröße";
+
+/* Class = "UILabel"; text = "Open Pixabay's API Page"; ObjectID = "15l-Si-pm4"; */
+"15l-Si-pm4.text" = "Öffne Pixabay's API Seite";
+
+/* Class = "UILabel"; text = "Cat Picture"; ObjectID = "2py-dj-OJe"; */
+"2py-dj-OJe.text" = "Katzenbild";
+
+/* Class = "UILabel"; text = "View your saved APIs"; ObjectID = "5f0-Xt-8gR"; */
+"5f0-Xt-8gR.text" = "Zeige deine gespeicherten APIs an";
+
+/* Class = "UITableViewSection"; headerTitle = "NASA - POT API Key"; ObjectID = "5oj-fG-9k1"; */
+"5oj-fG-9k1.headerTitle" = "NASA - BDT API Key";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "6og-hm-oLG"; */
+"6og-hm-oLG.title" = "Favoriten";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "7QF-a8-m3Y"; */
+"7QF-a8-m3Y.normalTitle" = "Speichern";
+
+/* Class = "UILabel"; text = "Picsum - Random photo"; ObjectID = "9hZ-6y-P4j"; */
+"9hZ-6y-P4j.text" = "Picsum - Zufälliges Foto";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ADI-nd-IvP"; */
+"ADI-nd-IvP.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "Pixabay API Key"; ObjectID = "Ag2-xe-TRe"; */
+"Ag2-xe-TRe.headerTitle" = "Pixabay API Key";
+
+/* Class = "UINavigationItem"; title = "Wallpapers"; ObjectID = "EEc-q1-y55"; */
+"EEc-q1-y55.title" = "Hintergründe";
+
+/* Class = "UILabel"; text = "Tuesday, 9. January"; ObjectID = "ETg-yG-gOV"; */
+"ETg-yG-gOV.text" = "Dienstag, 9. Januar";
+
+/* Class = "UIButton"; normalTitle = "Collapse"; ObjectID = "Ebc-J9-I5S"; */
+"Ebc-J9-I5S.normalTitle" = "Zuklappen";
+
+/* Class = "UILabel"; text = "Copy the key and enter it below."; ObjectID = "EiF-r3-dUG"; */
+"EiF-r3-dUG.text" = "Kopiere den Schlüssel und füge ihn unten ein.";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "FrW-pH-7CZ"; */
+"FrW-pH-7CZ.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "View a random cat picture"; ObjectID = "Gli-gj-k5e"; */
+"Gli-gj-k5e.text" = "Zeige ein zufälliges Katzenbild an.";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Gtk-gH-fd7"; */
+"Gtk-gH-fd7.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "KEh-eL-T8k"; */
+"KEh-eL-T8k.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Clear all"; ObjectID = "Lpt-GV-TQH"; */
+"Lpt-GV-TQH.normalTitle" = "Alle Löschen";
+
+/* Class = "UITextField"; text = "1080x1920"; ObjectID = "OHv-04-fIA"; */
+"OHv-04-fIA.text" = "1080x1920";
+
+/* Class = "UISearchBar"; Q8a-b6-KwQ.scopeButtonTitles[0] = "Title"; ObjectID = "Q8a-b6-KwQ"; */
+"Q8a-b6-KwQ.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; Q8a-b6-KwQ.scopeButtonTitles[1] = "Title"; ObjectID = "Q8a-b6-KwQ"; */
+"Q8a-b6-KwQ.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Open NASA's sign-up Page"; ObjectID = "SNA-94-Rzh"; */
+"SNA-94-Rzh.text" = "Öffne NASA's Registrieren-Seite";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "TVp-dV-Tcv"; */
+"TVp-dV-Tcv.normalTitle" = "Speichern";
+
+/* Class = "UINavigationItem"; title = "Pixabay"; ObjectID = "Uqi-CH-DhO"; */
+"Uqi-CH-DhO.title" = "Pixabay";
+
+/* Class = "UILabel"; text = "Copy the key and enter it below."; ObjectID = "YJo-ah-KVa"; */
+"YJo-ah-KVa.text" = "Kopiere den Schlüssel und füge ihn unten ein.";
+
+/* Class = "UILabel"; text = "View a random dog picture"; ObjectID = "YLC-Lr-D6Y"; */
+"YLC-Lr-D6Y.text" = "Zeige ein zufälliges Hundebild an.";
+
+/* Class = "UILabel"; text = "9:41 AM"; ObjectID = "aqc-u9-8kF"; */
+"aqc-u9-8kF.text" = "9:41";
+
+/* Class = "UISegmentedControl"; cue-Md-qQb.segmentTitles[0] = "Aspect Fill"; ObjectID = "cue-Md-qQb"; */
+"cue-Md-qQb.segmentTitles[0]" = "Füllen";
+
+/* Class = "UISegmentedControl"; cue-Md-qQb.segmentTitles[1] = "Aspect Fit"; ObjectID = "cue-Md-qQb"; */
+"cue-Md-qQb.segmentTitles[1]" = "Anpassen";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "eP6-JA-BX5"; */
+"eP6-JA-BX5.title" = "Einstellungen";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "ezQ-QE-190"; */
+"ezQ-QE-190.normalTitle" = "Speichern";
+
+/* Class = "UINavigationItem"; title = "Wallpapers"; ObjectID = "frl-pI-7EE"; */
+"frl-pI-7EE.title" = "Hintergründe";
+
+/* Class = "UILabel"; text = "User-Added APIs"; ObjectID = "gaG-HN-aHx"; */
+"gaG-HN-aHx.text" = "Benutzerdefinierte APIs";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "gij-sD-K6c"; */
+"gij-sD-K6c.normalTitle" = "Bearbeiten";
+
+/* Class = "UILabel"; text = "View a random photo from picsum"; ObjectID = "hAA-Un-dMC"; */
+"hAA-Un-dMC.text" = "Zeige ein zufälliges Bild von Picsum";
+
+/* Class = "UITabBarItem"; title = "Wallpapers"; ObjectID = "hll-Nj-b7V"; */
+"hll-Nj-b7V.title" = "Hintergründe";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "i7m-os-oq9"; */
+"i7m-os-oq9.title" = "Einstellungen";
+
+/* Class = "UIButton"; normalTitle = "Get"; ObjectID = "jRj-LT-hLs"; */
+"jRj-LT-hLs.normalTitle" = "Speichern";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jtT-YG-JiF"; */
+"jtT-YG-JiF.text" = "Label";
+
+/* Class = "UIViewController"; title = "PreviewView"; ObjectID = "mEW-Oc-3re"; */
+"mEW-Oc-3re.title" = "PreviewView";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "mZh-Wm-kyP"; */
+"mZh-Wm-kyP.title" = "Favoriten";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mgm-LB-Ie0"; */
+"mgm-LB-Ie0.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Show Details"; ObjectID = "qf6-jD-9Cm"; */
+"qf6-jD-9Cm.normalTitle" = "Details anzeigen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r93-D2-xuw"; */
+"r93-D2-xuw.text" = "Label";
+
+/* Class = "UILabel"; text = "Pixabay API"; ObjectID = "slr-Aj-GZ8"; */
+"slr-Aj-GZ8.text" = "Pixabay API";
+
+/* Class = "UILabel"; text = "Search for an Image on Pixabay"; ObjectID = "vUT-24-Pkf"; */
+"vUT-24-Pkf.text" = "Suche ein Bild auf Pixabay.";
+
+/* Class = "UILabel"; text = "View today's NASA Picture of the day inside the preview!"; ObjectID = "wJt-yc-DWa"; */
+"wJt-yc-DWa.text" = "Zeige NASA's Bild des Tages im Preview Fenster!";
+
+/* Class = "UILabel"; text = "NASA - Picture of the day"; ObjectID = "zCh-26-y6Y"; */
+"zCh-26-y6Y.text" = "NASA - Bild des Tages";
+
+/* Class = "UILabel"; text = "Dog Picture"; ObjectID = "zcK-eg-UYx"; */
+"zcK-eg-UYx.text" = "Hundebild";

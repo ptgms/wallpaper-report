@@ -1,0 +1,39 @@
+/*
+ Localizable.strings
+ wallreport
+ 
+ Created by ptgms on 17.05.20.
+ Copyright © 2020 ptgms. All rights reserved.
+ */
+
+"downloadstarted" = "Lade Bild herunter...";
+"completed" = "Fertig!";
+"setaswall" = "Das Bild wurde erfolgreich in deiner Gallerie gespeichert. Du kannst es nun als Hintergrund setzen.";
+"ok" = "OK";
+"opensettings" = "Einstellungen öffnen";
+"notyet" = "Noch nicht hinzugefügt!";
+"pleasebepatient" = "Bitte gedulde dich während ich meine Tastatur einschlage um dies hinzuzufügen.";
+"madeby" = "Copyright besitzt von ";
+
+"edit" = "Bearbeiten";
+"done" = "Fertig";
+"favat" = "Favorisiert um ";
+"madeby" = " gemacht von ";
+"madeby2" = "Foto gemacht von ";
+"delete" = "Löschen";
+
+"version" = "Version: ";
+"build" = "Build: ";
+
+"info" = "Info";
+"apisize1" = "Der API-Key den du eingegeben hast ist ungültig. Stelle sicher das der Key genau ";
+"apisize2" = " Zeichen lang ist.";
+"apivalid1" = "Der API-Key ist gültig. Er wurde gespeichert und nun kannst du die Pixabay-Seite verwenden.";
+"apiinvalid" = "Der API-Key ist ungültig. Bitte überprüfe deinen API-Key.";
+"apivalid2" = "Der API-Key ist gültig. Er wurde gespeichert und nun kannst du die NASA Bild des Tages-Seite verwenden.";
+
+"customsaved" = "Die benutzerdefinierte Auflösung wurde gespeichert.";
+"invalidres" = "Die benutzerdefinierte Auflösung ist ungültig. Bitte nehme eine niedrigere Auflösung oder versuche es erneut.";
+"usex" = "Nutze \"x\" um zwei Nummern zu trennen.";
+
+"notset" = "Du hast keinen API-Key dafür! Gehe zu den Einstellungen um einen zu speichern.";

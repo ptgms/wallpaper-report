@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  wallreport
+
+  Created by ptgms on 17.05.20.
+  Copyright © 2020 ptgms. All rights reserved.
+*/
+
+"downloadstarted" = "Downloading image...";
+"completed" = "Completed!";
+"setaswall" = "Picture was saved to the gallery. Feel free to set it as wallpaper now.";
+"ok" = "OK";
+"opensettings" = "Open Settings";
+"notyet" = "Not added yet!";
+"pleasebepatient" = "Please be patient while im punching my keyboard to add this.";
+"madeby" = "Copyright belongs to ";
+
+"edit" = "Edit";
+"done" = "Done";
+"favat" = "Favorited at ";
+"madeby" = " made by ";
+"madeby2" = "Photo made by ";
+"delete" = "Delete";
+
+"version" = "Version: ";
+"build" = "Build: ";
+
+"info" = "Info";
+"apisize1" = "The API Key you provided is invalid. It must be exactly ";
+"apisize2" = " Characters.";
+"apivalid1" = "The API Key you provided is valid. It has been saved and now you can use the Pixabay Page on the homescreen.";
+"apiinvalid" = "The API Key you provided is invalid. Please double-check your key.";
+"apivalid2" = "The API Key you provided is valid. It has been saved and now you can use the NASA Page on the homescreen.";
+
+"customsaved" = "The custom resolution has been saved.";
+"invalidres" = "The custom resolution is invalid. Please reduce it's size or try another combination.";
+"usex" = "Use \"x\" to seperate two numbers.";
+
+"notset" = "You don't have an API Key saved for this! Go to settings to set one.";
